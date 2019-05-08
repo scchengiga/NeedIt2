@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_script_email">
+    <sys_script_email action="INSERT_OR_UPDATE">
+        <name>AddCC</name>
+        <new_lines_to_html>false</new_lines_to_html>
+        <script><![CDATA[(function runMailScript(/* GlideRecord */ current, /* TemplatePrinter */ template,
+/* Optional EmailOutbound */ email, /* Optional GlideRecord */ email_action,
+/* Optional GlideRecord */ event) {
+	
+	// Add Assigned to's manager to the email as a CC
+	// current.assigned_to.manager.email is coerced to force it from a GlideElement to a string
+	
+	email.addAddress('cc', current.assigned_to.manager.email + '');
+	
+})(current, template, email, email_action, event);]]></script>
+        <sys_class_name>sys_script_email</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-01 00:59:54</sys_created_on>
+        <sys_id>ca714283db4133001b221fc7689619a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AddCC</sys_name>
+        <sys_package display_value="NeedIt2" source="x_19757_needit2">cb35a924db7323007c65fe1b68961954</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt2">cb35a924db7323007c65fe1b68961954</sys_scope>
+        <sys_update_name>sys_script_email_ca714283db4133001b221fc7689619a8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-01 00:59:54</sys_updated_on>
+    </sys_script_email>
+</record_update>
