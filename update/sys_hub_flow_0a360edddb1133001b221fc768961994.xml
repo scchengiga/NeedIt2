@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <description/>
+        <label_cache>[]</label_cache>
+        <latest_snapshot/>
+        <name>Stolen Hardware</name>
+        <remote_trigger_id/>
+        <show_draft_actions>false</show_draft_actions>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-08 01:04:37</sys_created_on>
+        <sys_id>0a360edddb1133001b221fc768961994</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Stolen Hardware</sys_name>
+        <sys_package display_value="NeedIt2" source="x_19757_needit2">cb35a924db7323007c65fe1b68961954</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt2">cb35a924db7323007c65fe1b68961954</sys_scope>
+        <sys_update_name>sys_hub_flow_0a360edddb1133001b221fc768961994</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-08 01:12:53</sys_updated_on>
+    </sys_hub_flow>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_type display_value="Create Record">2de05916c31332002841b63b12d3aee1</action_type>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="Stolen Hardware">0a360edddb1133001b221fc768961994</flow>
+        <order>3</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-08 01:12:54</sys_created_on>
+        <sys_id>9b180e51db5133001b221fc768961975</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt2" source="x_19757_needit2">cb35a924db7323007c65fe1b68961954</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt2">cb35a924db7323007c65fe1b68961954</sys_scope>
+        <sys_update_name>sys_hub_action_instance_9b180e51db5133001b221fc768961975</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-08 01:12:54</sys_updated_on>
+        <ui_id>c8e07c44-6fb4-4795-bc4e-d30e03aaaa15</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=9b180e51db5133001b221fc768961975"/>
+</record_update>
