@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_scope_privilege">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
     <sys_scope_privilege action="INSERT_OR_UPDATE">
         <operation>read</operation>
         <source_scope display_value="NeedIt2">cb35a924db7323007c65fe1b68961954</source_scope>
@@ -17,7 +16,7 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-05-01 00:22:44</sys_updated_on>
         <target_name>x_19757_needit_needit</target_name>
-        <target_scope display_value="NeedIt">7a2acda7db432300bf239006db961985</target_scope>
+        <target_scope display_value="">7a2acda7db432300bf239006db961985</target_scope>
         <target_type>sys_db_object</target_type>
     </sys_scope_privilege>
 </record_update>

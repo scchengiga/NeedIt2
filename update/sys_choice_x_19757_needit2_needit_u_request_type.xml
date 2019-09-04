@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_choice action="INSERT_OR_UPDATE" field="u_request_type" table="x_19757_needit2_needit" version="3">
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -83,7 +82,7 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2019-02-26 23:56:56</sys_created_on>
-            <sys_id>e7be3178db4533001b221fc768961902</sys_id>
+            <sys_id>a5637eabdb2333001b221fc7689619d0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>u_request_type</sys_name>
             <sys_package display_value="NeedIt2" source="x_19757_needit2">cb35a924db7323007c65fe1b68961954</sys_package>

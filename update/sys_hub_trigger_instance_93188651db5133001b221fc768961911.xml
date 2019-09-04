@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_hub_trigger_instance">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_trigger_instance">
     <sys_hub_trigger_instance action="INSERT_OR_UPDATE">
+        <comment/>
         <display_text/>
         <flow display_value="Stolen Hardware">0a360edddb1133001b221fc768961994</flow>
         <name>Created or Updated</name>

@@ -1,13 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_hub_flow">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
     <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access/>
+        <acls/>
         <active>false</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
         <description/>
+        <internal_name/>
         <label_cache>[]</label_cache>
         <latest_snapshot/>
+        <master_snapshot/>
         <name>Stolen Hardware</name>
+        <outputs/>
         <remote_trigger_id/>
+        <run_as/>
+        <sc_callable>false</sc_callable>
         <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
         <status>draft</status>
         <sys_class_name>sys_hub_flow</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -21,5 +33,7 @@
         <sys_update_name>sys_hub_flow_0a360edddb1133001b221fc768961994</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-05-08 01:12:53</sys_updated_on>
+        <type/>
     </sys_hub_flow>
+    <sys_variable_value action="delete_multiple" query="document_key=0a360edddb1133001b221fc768961994"/>
 </record_update>

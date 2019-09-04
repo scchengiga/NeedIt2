@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_ws_query_parameter_map">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_query_parameter_map">
     <sys_ws_query_parameter_map action="INSERT_OR_UPDATE">
         <sys_class_name>sys_ws_query_parameter_map</sys_class_name>
         <sys_created_by>admin</sys_created_by>

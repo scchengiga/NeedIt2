@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update sys_domain="global" table="sys_ui_module">
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
     <sys_ui_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="NeedIt">6cb95d63db832300bf239006db9619a4</application>
+        <application display_value="">6cb95d63db832300bf239006db9619a4</application>
         <filter/>
         <name>NeedIt Tasks</name>
         <order/>
